@@ -1,3 +1,6 @@
+/** Group: Lauren Alvarez, Sebastian Grasso, Kevin McInerney, and Brett Derham
+*/
+
 package pathfinder.uninformed;
 
 import java.util.ArrayList;
